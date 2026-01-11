@@ -9,7 +9,7 @@ Jesmina E
 </h1>
 
 <p className="mt-4 text-gray-300 text-lg animate-fadeUp delay-200">
-CSE Student • MERN Stack Developer • Internship Seeker
+CSE Student • Frontend Developer • Internship Seeker
 </p>
 
 <div className="flex justify-center gap-6 mt-6 text-sm animate-fadeUp delay-300">
@@ -47,8 +47,8 @@ opportunities.
 <h2 className="section-title">Technical Skills</h2>
 <div className="flex flex-wrap gap-3 mt-4">
 {[
-"HTML", "CSS", "JavaScript", "React", "Node.js",
-"Express", "MongoDB", "Python", "Git & GitHub"
+"C","HTML", "CSS", "JavaScript", "React", "Node.js",
+"Express", "MongoDB", "Python", "MySQL",Git & GitHub"
 ].map(skill => (
 <span key={skill}
 className="skill-pill animate-float">
@@ -109,7 +109,7 @@ View on GitHub
 </section>
 
 <p className="text-center text-gray-400 text-sm pt-4 animate-fadeUp">
-Open to Internship Opportunities • Resume will be added soon
+Open to Internship Opportunities 
 </p>
 </div>
 
