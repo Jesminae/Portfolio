@@ -48,7 +48,7 @@ opportunities.
 <div className="flex flex-wrap gap-3 mt-4">
 {[
 "C","HTML", "CSS", "JavaScript", "React", "Node.js",
-"Express", "MongoDB", "Python", "MySQL",Git & GitHub"
+"Express", "MongoDB", "Python", "MySQL","Git & GitHub"
 ].map(skill => (
 <span key={skill}
 className="skill-pill animate-float">
